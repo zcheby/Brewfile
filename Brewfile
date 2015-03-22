@@ -4,6 +4,9 @@
 tap caskroom/cask
 install brew-cask
 
+## cskroom/homebrew-versions
+tap caskroom/homebrew-versions
+
 ## rcmdnk/file
 tap rcmdnk/file
 install brew-file
@@ -13,3 +16,7 @@ appstore Xcode
 
 # Other Homebrew packages
 install rbenv
+
+cask install dropbox
+cask install evernote
+cask install sublime-text3
